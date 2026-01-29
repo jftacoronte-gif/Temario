@@ -3,78 +3,78 @@ Cabildo de Gran Canaria
 
 Temario oficial conforme a las Bases Específicas de la convocatoria para el acceso al cuerpo de Técnico/a de Gestión (Subgrupo A2) del Cabildo de Gran Canaria.
 
-El repositorio está organizado por **parte común** y **parte específica**, con un archivo Markdown por cada tema, preparado para su desarrollo epígrafe a epígrafe conforme a los criterios del segundo ejercicio.
+El repositorio está estructurado **por temas y por epígrafes**, siendo **cada epígrafe una unidad autónoma de estudio y de examen**, ya que el tribunal formula las preguntas **por epígrafe y no por tema completo**.
 
 ---
 
-## 📘 Parte común
+## 📘 PARTE COMÚN
 
-- [Tema 1. La Constitución Española de 1978](parte-comun/tema-01.md)
-- [Tema 2. La organización territorial del Estado](parte-comun/tema-02.md)
-- [Tema 3. La Administración Local](parte-comun/tema-03.md)
-- [Tema 4. Ley 8/2015, de Cabildos Insulares](parte-comun/tema-04.md)
-- [Tema 5. Ley 39/2015, del Procedimiento Administrativo Común (I)](parte-comun/tema-05.md)
-- [Tema 6. Ley 39/2015, del Procedimiento Administrativo Común (II)](parte-comun/tema-06.md)
-- [Tema 7. Ley 39/2015, del Procedimiento Administrativo Común (III)](parte-comun/tema-07.md)
-- [Tema 8. Estatuto Básico del Empleado Público](parte-comun/tema-08.md)
-- [Tema 9. El presupuesto general de las Entidades Locales](parte-comun/tema-09.md)
-- [Tema 10. Igualdad y violencia de género](parte-comun/tema-10.md)
-- [Tema 11. Prevención de Riesgos Laborales](parte-comun/tema-11.md)
-- [Tema 12. Protección de Datos Personales](parte-comun/tema-12.md)
+### Tema 1. La Constitución Española de 1978
+- [1.1. Estructura y contenido esencial](parte-comun/tema-01/01-01-estructura-y-contenido-esencial.md)
+- [1.2. Los derechos fundamentales y libertades públicas. Garantías y suspensión de derechos y libertades](parte-comun/tema-01/01-02-los-derechos-fundamentales-y-libertades-publicas-garantias-y-suspension-de-derechos-y-libertades.md)
+- [1.3. Procedimiento de reforma de la Constitución](parte-comun/tema-01/01-03-procedimiento-de-reforma-de-la-constitucion.md)
 
----
+### Tema 2. La organización territorial del Estado
+- [2.1. Formas de acceso a la autonomía en la Constitución Española](parte-comun/tema-02/02-01-formas-de-acceso-a-la-autonomia-en-la-constitucion-espanola.md)
+- [2.2. Competencias de las Comunidades Autónomas y competencias exclusivas del Estado](parte-comun/tema-02/02-02-competencias-de-las-comunidades-autonomas-y-competencias-exclusivas-del-estado.md)
+- [2.3. El proceso estatuyente: los Estatutos de Autonomía. Reforma de los Estatutos](parte-comun/tema-02/02-03-el-proceso-estatuyente-los-estatutos-de-autonomia-reforma-de-los-estatutos.md)
 
-## 📙 Parte específica
+### Tema 3. La Administración Local
+- [3.1. La provincia. Organización y competencias. La cooperación municipal](parte-comun/tema-03/03-01-la-provincia-organizacion-y-competencias-la-cooperacion-municipal.md)
+- [3.2. El municipio: regímenes de organización. Régimen en municipios de gran población](parte-comun/tema-03/03-02-el-municipio-regimenes-de-organizacion-regimen-en-municipios-de-gran-poblacion.md)
+- [3.3. Las competencias municipales: sistema de determinación. Competencias propias, delegadas y competencias distintas de las propias](parte-comun/tema-03/03-03-las-competencias-municipales-sistema-de-determinacion-competencias-propias-delegadas-y-competencias-distintas-de-las-propias.md)
 
-- [Tema 13. Ley 39/2015 (IV): Normas generales de actuación](parte-especifica/tema-13.md)
-- [Tema 14. Ley 39/2015 (V): Plazo para resolver](parte-especifica/tema-14.md)
-- [Tema 15. Ley 39/2015 (VI): Documentos administrativos](parte-especifica/tema-15.md)
-- [Tema 16. Ley 39/2015 (VII): Términos y plazos](parte-especifica/tema-16.md)
-- [Tema 17. Ley 39/2015 (VIII): Los actos administrativos](parte-especifica/tema-17.md)
-- [Tema 18. Ley 39/2015 (IX): Desistimiento, renuncia y tramitación simplificada](parte-especifica/tema-18.md)
-- [Tema 19. Ley 39/2015 (X): Ejecución del procedimiento](parte-especifica/tema-19.md)
-- [Tema 20. Ley 39/2015 (XI): Notificación](parte-especifica/tema-20.md)
-- [Tema 21. Ley 40/2015 (I): Órganos administrativos](parte-especifica/tema-21.md)
-- [Tema 22. Ley 40/2015 (II): Competencias](parte-especifica/tema-22.md)
-- [Tema 23. Ley 40/2015 (III): Potestad sancionadora](parte-especifica/tema-23.md)
-- [Tema 24. Ley 40/2015 (IV): Responsabilidad patrimonial](parte-especifica/tema-24.md)
-- [Tema 25. Administración electrónica](parte-especifica/tema-25.md)
-- [Tema 26. El personal al servicio de las Administraciones Públicas (I)](parte-especifica/tema-26.md)
-- [Tema 27. El personal al servicio de las Administraciones Públicas (II)](parte-especifica/tema-27.md)
-- [Tema 28. El personal al servicio de las Administraciones Públicas (III)](parte-especifica/tema-28.md)
-- [Tema 29. El personal al servicio de las Administraciones Públicas (IV)](parte-especifica/tema-29.md)
-- [Tema 30. Las subvenciones (I)](parte-especifica/tema-30.md)
-- [Tema 31. Las subvenciones (II)](parte-especifica/tema-31.md)
-- [Tema 32. Las subvenciones (III)](parte-especifica/tema-32.md)
-- [Tema 33. Las subvenciones (IV)](parte-especifica/tema-33.md)
-- [Tema 34. La contratación en el sector público (I)](parte-especifica/tema-34.md)
-- [Tema 35. La contratación en el sector público (II)](parte-especifica/tema-35.md)
-- [Tema 36. La contratación en el sector público (III)](parte-especifica/tema-36.md)
-- [Tema 37. Contrato de obras](parte-especifica/tema-37.md)
-- [Tema 38. Contrato de concesión de obras](parte-especifica/tema-38.md)
-- [Tema 39. Contrato de suministro](parte-especifica/tema-39.md)
-- [Tema 40. Contrato de servicios](parte-especifica/tema-40.md)
-- [Tema 41. Contrato de concesión de servicios](parte-especifica/tema-41.md)
-- [Tema 42. Recurso especial en materia de contratación](parte-especifica/tema-42.md)
-- [Tema 43. Capacidad y solvencia del empresario](parte-especifica/tema-43.md)
-- [Tema 44. Acreditación de la aptitud para contratar](parte-especifica/tema-44.md)
-- [Tema 45. Modificación, extinción y cesión de contratos](parte-especifica/tema-45.md)
-- [Tema 46. Transparencia y buen gobierno](parte-especifica/tema-46.md)
-- [Tema 47. Jurisdicción contencioso-administrativa](parte-especifica/tema-47.md)
-- [Tema 48. Expropiación forzosa](parte-especifica/tema-48.md)
-- [Tema 49. Bienes de las Entidades Locales (I)](parte-especifica/tema-49.md)
-- [Tema 50. Bienes de las Entidades Locales (II)](parte-especifica/tema-50.md)
-- [Tema 51. Haciendas Locales (I)](parte-especifica/tema-51.md)
-- [Tema 52. Haciendas Locales (II)](parte-especifica/tema-52.md)
-- [Tema 53. Haciendas Locales (III)](parte-especifica/tema-53.md)
-- [Tema 54. Haciendas Locales (IV)](parte-especifica/tema-54.md)
-- [Tema 55. Haciendas Locales (V)](parte-especifica/tema-55.md)
-- [Tema 56. Haciendas Locales (VI)](parte-especifica/tema-56.md)
-- [Tema 57. Haciendas Locales (VII)](parte-especifica/tema-57.md)
-- [Tema 58. Haciendas Locales (VIII)](parte-especifica/tema-58.md)
-- [Tema 59. Municipios de Canarias](parte-especifica/tema-59.md)
-- [Tema 60. Instituciones de la Unión Europea](parte-especifica/tema-60.md)
+### Tema 4. Ley 8/2015, de 1 de abril, de Cabildos Insulares
+- [4.1. Organización: órganos de gobierno](parte-comun/tema-04/04-01-organizacion-organos-de-gobierno.md)
+- [4.2. Organización administrativa. Organización descentralizada](parte-comun/tema-04/04-02-organizacion-administrativa-organizacion-descentralizada.md)
+- [4.3. Régimen de las normas y actos de los órganos de los Cabildos Insulares. Derecho de acceso a la información. Publicación y acceso de la información](parte-comun/tema-04/04-03-regimen-de-las-normas-y-actos-de-los-organos-de-los-cabildos-insulares-derecho-de-acceso-a-la-informacion-publicacion-y-acceso-de-la-informacion.md)
+
+### Tema 5. Ley 39/2015, del Procedimiento Administrativo Común (I)
+- [5.1. Clases de interesados en el procedimiento. Representación. Identificación y firma de los interesados en el procedimiento administrativo](parte-comun/tema-05/05-01-clases-de-interesados-en-el-procedimiento-representacion-identificacion-y-firma-de-los-interesados-en-el-procedimiento-administrativo.md)
+- [5.2. Derechos de las personas en sus relaciones con las Administraciones Públicas. Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas. Registros](parte-comun/tema-05/05-02-derechos-de-las-personas-en-sus-relaciones-con-las-administraciones-publicas-derecho-y-obligacion-de-relacionarse-electronicamente-con-las-administraciones-publicas-registros.md)
+- [5.3. Obligación de resolver. El silencio administrativo](parte-comun/tema-05/05-03-obligacion-de-resolver-el-silencio-administrativo.md)
+
+### Tema 6. Ley 39/2015, del Procedimiento Administrativo Común (II)
+- [6.1. El acto administrativo. Formas de notificación y publicación](parte-comun/tema-06/06-01-el-acto-administrativo-formas-de-notificacion-y-publicacion.md)
+- [6.2. Nulidad y anulabilidad del acto administrativo. Procedimientos de revisión de oficio](parte-comun/tema-06/06-02-nulidad-y-anulabilidad-del-acto-administrativo-procedimientos-de-revision-de-oficio.md)
+- [6.3. Los recursos administrativos. Clases de recursos](parte-comun/tema-06/06-03-los-recursos-administrativos-clases-de-recursos.md)
+
+### Tema 7. Ley 39/2015, del Procedimiento Administrativo Común (III)
+- [7.1. Principios informadores. Iniciación del procedimiento. Especialidades en el inicio del procedimiento sancionador y de responsabilidad patrimonial](parte-comun/tema-07/07-01-principios-informadores-iniciacion-del-procedimiento-especialidades-en-el-inicio-del-procedimiento-sancionador-y-de-responsabilidad-patrimonial.md)
+- [7.2. Ordenación e instrucción del procedimiento. Participación de los interesados](parte-comun/tema-07/07-02-ordenacion-e-instruccion-del-procedimiento-participacion-de-los-interesados.md)
+- [7.3. Finalización del procedimiento: disposiciones generales y formas de finalización](parte-comun/tema-07/07-03-finalizacion-del-procedimiento-disposiciones-generales-y-formas-de-finalizacion.md)
+
+### Tema 8. Estatuto Básico del Empleado Público
+- [8.1. Clases de personal al servicio de las Administraciones Públicas. Derechos individuales](parte-comun/tema-08/08-01-clases-de-personal-al-servicio-de-las-administraciones-publicas-derechos-individuales.md)
+- [8.2. Situaciones administrativas](parte-comun/tema-08/08-02-situaciones-administrativas.md)
+- [8.3. Deberes y código de conducta. Régimen disciplinario](parte-comun/tema-08/08-03-deberes-y-codigo-de-conducta-regimen-disciplinario.md)
+
+### Tema 9. El presupuesto general de las Entidades Locales
+- [9.1. Estructura presupuestaria. Elaboración y aprobación](parte-comun/tema-09/09-01-estructura-presupuestaria-elaboracion-y-aprobacion.md)
+- [9.2. Modificaciones presupuestarias](parte-comun/tema-09/09-02-modificaciones-presupuestarias.md)
+- [9.3. Fases de ejecución del presupuesto. La liquidación del presupuesto](parte-comun/tema-09/09-03-fases-de-ejecucion-del-presupuesto-la-liquidacion-del-presupuesto.md)
+
+### Tema 10. Igualdad y violencia de género
+- [10.1. El principio de igualdad y la tutela contra la discriminación. Criterios de actuación de las Administraciones Públicas](parte-comun/tema-10/10-01-el-principio-de-igualdad-y-la-tutela-contra-la-discriminacion-criterios-de-actuacion-de-las-administraciones-publicas.md)
+- [10.2. Políticas públicas para la igualdad: principios generales](parte-comun/tema-10/10-02-politicas-publicas-para-la-igualdad-principios-generales.md)
+- [10.3. La Ley Orgánica 1/2004, de medidas de protección integral contra la violencia de género: objeto y principios rectores. Derechos de las mujeres víctimas de violencia de género](parte-comun/tema-10/10-03-la-ley-organica-1-2004-de-medidas-de-proteccion-integral-contra-la-violencia-de-genero-objeto-y-principios-rectores-derechos-de-las-mujeres-victimas-de-violencia-de-genero.md)
+
+### Tema 11. Prevención de Riesgos Laborales
+- [11.1. Derechos y obligaciones del trabajador. Principios de la acción preventiva](parte-comun/tema-11/11-01-derechos-y-obligaciones-del-trabajador-principios-de-la-accion-preventiva.md)
+- [11.2. Plan de Prevención del Cabildo de Gran Canaria](parte-comun/tema-11/11-02-plan-de-prevencion-del-cabildo-de-gran-canaria.md)
+- [11.3. Medidas de emergencia en centros de trabajo](parte-comun/tema-11/11-03-medidas-de-emergencia-en-centros-de-trabajo.md)
+
+### Tema 12. Protección de Datos Personales
+- [12.1. Principios de la protección de datos](parte-comun/tema-12/12-01-principios-de-la-proteccion-de-datos.md)
+- [12.2. Derechos de las personas](parte-comun/tema-12/12-02-derechos-de-las-personas.md)
+- [12.3. Disposiciones aplicables a tratamientos concretos](parte-comun/tema-12/12-03-disposiciones-aplicables-a-tratamientos-concretos.md)
 
 ---
 
-📌 Repositorio orientado al **estudio, desarrollo progresivo del temario y control de versiones**.
+## 📙 PARTE ESPECÍFICA
+
+👉 Se seguirá **exactamente el mismo esquema** (tema → epígrafes) desde el **Tema 13 al Tema 60**, garantizando que **cada epígrafe tenga su archivo independiente**, con el título literal del temario oficial.
+
+---
+
+📌 Repositorio diseñado para **estudio por epígrafe**, **respuesta directa de examen** y **control de versiones**.
