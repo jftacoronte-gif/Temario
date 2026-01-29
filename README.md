@@ -73,4 +73,3 @@ Cabildo de Gran Canaria
 
 ---
 
-📌 Repositorio diseñado para **estudio por epígrafe**, **respuesta directa de examen** y **control de versiones**.
