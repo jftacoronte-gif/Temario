@@ -1,10 +1,6 @@
 # Temario Técnico/a de Gestión (A2)
 Cabildo de Gran Canaria
 
-Temario oficial conforme a las Bases Específicas de la convocatoria para el acceso al cuerpo de Técnico/a de Gestión (Subgrupo A2) del Cabildo de Gran Canaria.
-
-El repositorio está estructurado **por temas y por epígrafes**, siendo **cada epígrafe una unidad autónoma de estudio y de examen**, ya que el tribunal formula las preguntas **por epígrafe y no por tema completo**.
-
 ---
 
 ## 📘 PARTE COMÚN
@@ -73,7 +69,7 @@ El repositorio está estructurado **por temas y por epígrafes**, siendo **cada 
 
 ## 📙 PARTE ESPECÍFICA
 
-👉 Se seguirá **exactamente el mismo esquema** (tema → epígrafes) desde el **Tema 13 al Tema 60**, garantizando que **cada epígrafe tenga su archivo independiente**, con el título literal del temario oficial.
+
 
 ---
 
