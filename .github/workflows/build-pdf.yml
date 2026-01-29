@@ -1,0 +1,77 @@
+name: Build PDFs (Pandoc)
+
+on:
+  push:
+    branches: ["main", "master"]
+  workflow_dispatch: {}
+
+jobs:
+  build-pdfs:
+    runs-on: ubuntu-latest
+
+    # Usamos un contenedor que ya trae Pandoc + LaTeX para generar PDFs
+    container:
+      image: pandoc/latex:latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create output folder
+        run: |
+          mkdir -p dist
+
+      - name: Build PDF - Parte común
+        run: |
+          # Encuentra todos los .md de parte-comun, ordenados
+          files="$(find parte-comun -type f -name '*.md' | sort)"
+          if [ -z "$files" ]; then
+            echo "No se encontraron .md en parte-comun"
+            exit 1
+          fi
+
+          pandoc $files \
+            --pdf-engine=xelatex \
+            --toc --toc-depth=2 \
+            -V geometry:margin=2.5cm \
+            -V fontsize=12pt \
+            -V lang=es \
+            -o dist/Parte_Comun_Tecnico_Gestion_A2.pdf
+
+      - name: Build PDF - Parte específica
+        run: |
+          files="$(find parte-especifica -type f -name '*.md' | sort)"
+          if [ -z "$files" ]; then
+            echo "No se encontraron .md en parte-especifica"
+            exit 1
+          fi
+
+          pandoc $files \
+            --pdf-engine=xelatex \
+            --toc --toc-depth=2 \
+            -V geometry:margin=2.5cm \
+            -V fontsize=12pt \
+            -V lang=es \
+            -o dist/Parte_Especifica_Tecnico_Gestion_A2.pdf
+
+      - name: Build PDF - Temario completo
+        run: |
+          files="$(find parte-comun parte-especifica -type f -name '*.md' | sort)"
+          if [ -z "$files" ]; then
+            echo "No se encontraron .md en el repo"
+            exit 1
+          fi
+
+          pandoc $files \
+            --pdf-engine=xelatex \
+            --toc --toc-depth=2 \
+            -V geometry:margin=2.5cm \
+            -V fontsize=12pt \
+            -V lang=es \
+            -o dist/Temario_Completo_Tecnico_Gestion_A2.pdf
+
+      - name: Upload PDFs (Artifacts)
+        uses: actions/upload-artifact@v4
+        with:
+          name: PDFs-Temario
+          path: dist/*.pdf
