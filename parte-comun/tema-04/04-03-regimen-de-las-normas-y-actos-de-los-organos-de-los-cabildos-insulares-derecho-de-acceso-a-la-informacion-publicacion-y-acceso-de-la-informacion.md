@@ -2,38 +2,52 @@
 
 ## 4.3. Régimen de las normas y actos de los órganos de los Cabildos Insulares. Derecho de acceso a la información. Publicación y acceso de la información
 
-La actividad de los Cabildos Insulares se manifiesta a través de normas y actos administrativos dictados por sus órganos de gobierno y administrativos. La Ley 8/2015 regula el régimen jurídico aplicable a estas normas y actos, así como los principios de transparencia, publicidad y acceso a la información pública.
+La actividad de los Cabildos Insulares se manifiesta mediante la aprobación de normas y la adopción de actos administrativos por parte de sus órganos de gobierno y órganos administrativos. El régimen jurídico aplicable a dichas normas y actos se regula, con carácter específico, en la Ley 8/2015, de 1 de abril, de Cabildos Insulares, y, con carácter supletorio y básico, en la legislación estatal en materia de procedimiento administrativo y transparencia.
 
-Este régimen garantiza la legalidad, la seguridad jurídica y el control de la actuación insular.
+La Ley 8/2015 establece los principios generales de actuación, el régimen de funcionamiento de los órganos insulares y las obligaciones de publicidad y transparencia, garantizando el sometimiento de la actuación insular a la legalidad y al control público.
 
-### 1. Régimen de las normas de los Cabildos Insulares
+### 1. Régimen jurídico de las normas de los Cabildos Insulares
 
-Los Cabildos Insulares pueden aprobar normas de carácter reglamentario en el ámbito de sus competencias. Estas normas deben respetar el ordenamiento jurídico y situarse jerárquicamente por debajo de la ley.
+De conformidad con los **artículos 7 y 8 de la Ley 8/2015**, los Cabildos Insulares ejercen las potestades administrativas que les atribuye el ordenamiento jurídico, entre ellas la potestad reglamentaria en el ámbito de sus competencias.
 
-La potestad normativa permite a los Cabildos desarrollar y concretar el ejercicio de sus competencias, adaptando la regulación a las necesidades insulares.
+La **potestad normativa** corresponde, con carácter general, al **Pleno del Cabildo**, conforme a lo dispuesto en el **artículo 28**, que le atribuye la aprobación de disposiciones de carácter general. Las normas dictadas por los Cabildos tienen naturaleza reglamentaria y se sitúan jerárquicamente por debajo de la ley, debiendo respetar la Constitución, el Estatuto de Autonomía de Canarias y el resto del ordenamiento jurídico.
 
-### 2. Régimen de los actos administrativos
+Estas normas tienen como finalidad desarrollar la legislación aplicable y regular aspectos concretos de la actuación insular, debiendo aprobarse conforme al procedimiento legalmente establecido y con respeto a los principios de competencia, jerarquía normativa, publicidad y transparencia.
 
-Los actos administrativos dictados por los órganos del Cabildo están sujetos a los principios generales del Derecho Administrativo. Deben ser válidos, eficaces y dictados por órgano competente, conforme al procedimiento legalmente establecido.
+### 2. Régimen de los actos administrativos de los órganos insulares
 
-Estos actos son susceptibles de control administrativo y jurisdiccional, garantizando la protección de los derechos de la ciudadanía.
+Los **actos administrativos** dictados por los órganos del Cabildo Insular se rigen, de acuerdo con la Ley 8/2015, por la legislación básica estatal sobre procedimiento administrativo común, en particular la **Ley 39/2015, de 1 de octubre**, sin perjuicio de las especialidades organizativas propias de la Administración insular.
 
-### 3. El derecho de acceso a la información pública
+En este sentido, los **artículos 34 y 35** regulan los actos del Presidente del Cabildo, mientras que el **artículo 37** se refiere a los actos del Consejo de Gobierno Insular. Todos los actos deben ser dictados por órgano competente, ajustarse al procedimiento legalmente previsto y respetar los principios de legalidad, eficacia y objetividad.
 
-La Ley reconoce el **derecho de acceso a la información pública**, como manifestación del principio de transparencia. Este derecho permite a las personas acceder a la información que obre en poder del Cabildo, con los límites establecidos legalmente.
+Los actos administrativos del Cabildo son susceptibles de revisión en vía administrativa y de control jurisdiccional, garantizando la tutela de los derechos e intereses legítimos de la ciudadanía.
 
-El acceso a la información refuerza la participación ciudadana y el control democrático de la actuación pública.
+### 3. Publicidad de las normas, actos y acuerdos
 
-### 4. Publicidad y acceso de la información
+La **publicidad** de las normas, actos y acuerdos constituye una garantía esencial de la seguridad jurídica. La Ley 8/2015, en particular en sus **artículos 70 y 71**, establece la obligación de publicar las disposiciones, acuerdos y resoluciones de los órganos del Cabildo cuando así lo exija su naturaleza o cuando produzcan efectos frente a terceros.
 
-Los Cabildos Insulares deben garantizar la publicidad activa de la información relevante, facilitando su difusión a través de medios accesibles y comprensibles.
+La publicación permite el conocimiento general de la actuación insular, facilita el ejercicio de derechos y refuerza el control democrático de la actividad pública.
 
-La publicación de normas, actos y acuerdos asegura la transparencia, la seguridad jurídica y el conocimiento público de la actuación insular.
+### 4. Derecho de acceso a la información pública
 
-### 5. Transparencia y buen gobierno
+El **derecho de acceso a la información pública** se reconoce en la Ley 8/2015 en conexión directa con la **Ley 19/2013, de 9 de diciembre**, de transparencia, acceso a la información pública y buen gobierno, a la que se remite expresamente la normativa insular.
 
-La transparencia y el acceso a la información pública constituyen pilares esenciales del buen gobierno. Permiten fortalecer la confianza de la ciudadanía en las instituciones insulares y mejorar la calidad democrática.
+Este derecho permite a las personas acceder a la información que obre en poder de los Cabildos Insulares, cualquiera que sea su formato o soporte, con los límites legalmente establecidos para la protección de otros intereses jurídicos, como la seguridad, la protección de datos personales o la confidencialidad de determinados procedimientos.
 
-### 6. Conclusión
+### 5. Publicación y difusión de la información
 
-En conclusión, la Ley 8/2015 establece un régimen jurídico claro para las normas y actos de los Cabildos Insulares, garantizando su legalidad y control. Asimismo, refuerza los principios de transparencia, publicidad y acceso a la información como elementos esenciales de una Administración insular abierta, responsable y al servicio de la ciudadanía.
+De acuerdo con el **artículo 6 de la Ley 8/2015**, la actuación de los Cabildos Insulares debe regirse por los principios de transparencia y publicidad. En consecuencia, los Cabildos están obligados a garantizar la **publicidad activa** de la información relevante relativa a su organización, funcionamiento, actividad normativa y gestión económica, en los términos previstos en la legislación de transparencia.
+
+La información debe difundirse de forma clara, accesible y comprensible, utilizando medios que faciliten su acceso por parte de la ciudadanía.
+
+### 6. Transparencia, acceso a la información y buen gobierno
+
+La transparencia, la publicidad y el acceso a la información pública se integran en los principios de **buen gobierno** que deben presidir la actuación de los Cabildos Insulares. Estos principios exigen una actuación responsable, orientada al interés general y sometida a rendición de cuentas.
+
+### 7. Garantías y control
+
+El régimen jurídico de las normas, actos y acceso a la información se completa con mecanismos de control que garantizan su efectividad. Los ciudadanos pueden impugnar actos administrativos, ejercer el derecho de acceso a la información pública y exigir el cumplimiento de las obligaciones de publicidad y transparencia.
+
+### 8. Conclusión
+
+En conclusión, la Ley 8/2015, de 1 de abril, de Cabildos Insulares, establece un régimen jurídico específico para las normas y actos de los órganos insulares, apoyado en los artículos relativos a las potestades, funcionamiento y publicidad de la actuación pública, y complementado por la legislación básica estatal. Este régimen garantiza la legalidad, la transparencia, el derecho de acceso a la información y el control de la actuación insular, configurando una Administración insular plenamente sometida al Derecho.
