@@ -17,7 +17,8 @@ Cabildo de Gran Canaria
 
 ---
 
-## Tema 15. Ley 39/2015 (VI): Documentos administrativos(parte-especifica/tema-15.md)
+## Tema 15. Ley 39/2015 (VI): Documentos administrativos## (tema-15/README.md)
+
 - [15.1. Emisión de documentos por las Administraciones Públicas](tema-15/15-01-emision-de-documentos-por-las-administraciones-publicas.md)
 - [15.2. Validez y eficacia de las copias realizadas por las Administraciones Públicas](tema-15/15-02-validez-y-eficacia-de-las-copias-realizadas-por-las-administraciones-publicas.md)
 - [15.3. Documentos aportados por los interesados al procedimiento administrativo](tema-15/15-03-documentos-aportados-por-los-interesados-al-procedimiento-administrativo.md)
