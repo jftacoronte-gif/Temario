@@ -3,7 +3,7 @@ Cabildo de Gran Canaria
 
 ---
 
-## Tema 13. Ley 39/2015 (IV): Normas generales de actuación (tema-13/README.md)
+## [Tema 13. Ley 39/2015 (IV): Normas generales de actuación](tema-13/README.md)
 - [13.1. Registro electrónico de apoderamientos](tema-13/13-01-registro-electronico-de-apoderamientos.md)
 - [13.2. Lengua de los procedimientos. Archivo de documentos. Capacidad de obrar](tema-13/13-02-lengua-de-los-procedimientos-archivo-de-documentos-capacidad-de-obrar.md)
 - [13.3. Colaboración de las personas. Comparecencia. Responsabilidad de la tramitación](tema-13/13-03-colaboracion-de-las-personas-comparecencia-responsabilidad-de-la-tramitacion.md)
