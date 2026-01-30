@@ -1,5 +1,10 @@
 # Tema 15. Ley 39/2015 (VI): Documentos administrativos
 
+**Epígrafes del tema:**
+- 15.1. Emisión de documentos por las Administraciones Públicas (artículo 26 de la Ley 39/2015).
+- 15.2. Validez y eficacia de las copias realizadas por las Administraciones Públicas (artículo 27 de la Ley 39/2015).
+- 15.3. Documentos aportados por los interesados al procedimiento administrativo (artículo 28 de la Ley 39/2015).
+
 El Tema 15 regula el régimen jurídico de los documentos administrativos como soporte formal de la actuación de las Administraciones Públicas en el procedimiento administrativo común, en el marco de la administración electrónica.
 
 La Ley 39/2015 establece la emisión de documentos por medios electrónicos como regla general, configurando el documento administrativo como instrumento esencial para garantizar la constancia, trazabilidad y control de la actuación administrativa, de conformidad con lo dispuesto en el artículo 26.
